@@ -5,5 +5,5 @@ I've been an Electrical Engineer for over 7 year. Tired of the lack of passion i
 
 - 👔 Take a look at this distinguished [LinkedIn page](https://www.linkedin.com/in/leorickli/) to get all the information regarding my career transition, certifications, and some content about Data Engineering and Cloud overall.
 - 🌐 Visit my [portfolio website](https://leorickli.github.io) for more information and to get in touch.
-- 🎸 Follow me on [Instragram](https://www.instagram.com/leorickli/) for some guitar content (shred alert).
+- 🎸 Follow me on [Instagram](https://www.instagram.com/leorickli/) for some guitar content (shred alert).
 - I also make great burgers 🍔 and pasta 🍝.
